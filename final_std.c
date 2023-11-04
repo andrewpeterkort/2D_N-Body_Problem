@@ -15,7 +15,7 @@
 #include <time.h>
 #include <math.h>
 
-#define MACGLITCH 2//use 2 on macs with retna display, use 1 otherwise
+#define MACGLITCH 1//use 2 on macs with retna display, use 1 otherwise
 #define PARTICAL_NUM 200
 #define GRAVITATIONAL_CONSTANT 1000000000//9 zeros are regular, 10
 #define SCALING_FACTOR 1000//3 zeros are regular, 4 for crazy time with 10 above
